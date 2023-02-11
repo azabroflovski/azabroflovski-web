@@ -74,6 +74,7 @@ const socialList = [
     border-top: 1px solid #333;
     margin-top: 20px;
     padding-top: 20px;
+    padding-bottom: 20px;
     font-size: 16px;
   }
 }
