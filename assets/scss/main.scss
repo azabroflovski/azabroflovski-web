@@ -28,4 +28,13 @@ a:hover {
   color: #999;
 }
 
+.error {
+  @media (max-width: 460px) {
+    font-size: 14px;
+  }
+
+  @media (max-width: 330px) {
+    font-size: 12px;
+  }
+}
 
